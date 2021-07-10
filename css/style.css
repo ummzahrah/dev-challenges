@@ -39,6 +39,17 @@ h1 {
 
 .sidebar {
     width: 30%;
+    padding: 20px;
+    background-color: #9AE84F;
+}
+.sidebar p{
+  color: #9138B7
+  font-size: 14px; 
+  margin-left: 10px;
+}
+.sidebar p:hover{
+  color: red;
+  text-decoration: underline;
 }
 
 .col-right {
